@@ -57,6 +57,7 @@ header .logo {
   color: #4a4a4a;
   font-family: monospace, sans-serif;
   font-weight: lighter;
+  margin-left: 0;
 }
 
 header nav ul {
